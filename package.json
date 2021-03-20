@@ -1,0 +1,19 @@
+{
+  "name": "csgo_market_index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr0Inka/csgo_market_index.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr0Inka/csgo_market_index/issues"
+  },
+  "homepage": "https://github.com/Mr0Inka/csgo_market_index#readme"
+}
